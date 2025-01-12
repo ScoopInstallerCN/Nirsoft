@@ -1,5 +1,5 @@
 {
-    "version": "1.28",
+    "version": "1.30",
     "homepage": "https://www.nirsoft.net/utils/web_browser_addons_view.html",
     "bin": "BrowserAddonsView.exe",
     "shortcuts": [
@@ -15,11 +15,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/browseraddonsview-x64.zip",
-            "hash": "4ba0ce604d807d59c2ab855dcd9b278f174f53614cd1094130df20d1c7f0cc34"
+            "hash": "904e2de667963c3a91a9d935c2fa9ff864490b53beed042a4439499a89e673f2"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/utils/browseraddonsview.zip",
-            "hash": "241ba62208754c76c0b76623b8799597cf11b2d3a6154de976d4f5078ddaee89"
+            "hash": "bd80bf87e8397bbb97b8e056f641fbc0b0886548229cfd6d127d41d5c7448f82"
         }
     },
     "description": "Displays the details of all Web browser addons/plugins installed in your system.",

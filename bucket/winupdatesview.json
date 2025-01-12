@@ -1,5 +1,5 @@
 {
-    "version": "1.17",
+    "version": "1.20",
     "homepage": "https://www.nirsoft.net/utils/windows_updates_history_viewer.html",
     "bin": "WinUpdatesView.exe",
     "shortcuts": [
@@ -15,11 +15,11 @@
     "architecture": {
         "64bit": {
             "url": "https://www.nirsoft.net/utils/winupdatesview-x64.zip",
-            "hash": "8533dd679cc38e362ebdbd7b0bf5a908b36bcafb0ecf1a87487699540a91f52e"
+            "hash": "69ff663ee603ac8c5ad50750297c54678a73cdbf08d9bf589da3be39a445d728"
         },
         "32bit": {
             "url": "https://www.nirsoft.net/utils/winupdatesview.zip",
-            "hash": "7d692f8ad089866a662ee1f1771b87faf85e5c2e01382b1740c623b8ca04dccf"
+            "hash": "d1f9aaf0469409d14ee7fe9ca831a1b2b9150689d24110debd8ac5ebf1d2bc8f"
         }
     },
     "description": "Displays the history of Windows updates for your system.",

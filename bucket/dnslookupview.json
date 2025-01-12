@@ -1,5 +1,5 @@
 {
-    "version": "1.12",
+    "version": "1.15",
     "homepage": "https://www.nirsoft.net/utils/dns_lookup_view.html",
     "url": "https://www.nirsoft.net/utils/dnslookupview.zip",
     "bin": "DNSLookupView.exe",
@@ -13,7 +13,7 @@
         "dnslookupview_lng.ini",
         "dnslookupview.cfg"
     ],
-    "hash": "bd9c559b6d5ee28f6ca5183aba78d6a84e6ca8ddbc86f8f6f590edc4921c296d",
+    "hash": "6486adca519a94bfae190a9a159f20752f5e5fd5204d1acf2d3bda787b31b901",
     "description": "DNS Lookup Viewer for Windows 11/10",
     "license": "Freeware",
     "notes": "If this application is useful to you, please consider donating to NirSoft - https://www.nirsoft.net/donate.html",
